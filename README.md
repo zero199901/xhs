@@ -14,5 +14,5 @@
 
 由于出售的是源码，无法在线测试。介意勿扰
 
-wx: <img width="200" alt="image" src="https://github.com/submato/xhscrawl/assets/55040284/d63ef610-527f-4d3c-af9b-9244b172faf5">
+wx: <img width="200" alt="image" src="https://github.com/zero199901/xhs/blob/main/WechatIMG185.jpg?raw=true">
 
